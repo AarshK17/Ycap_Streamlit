@@ -2,3 +2,5 @@ streamlit
 pandas
 numpy
 Pillow
+langchain_community
+langchain-ollama
