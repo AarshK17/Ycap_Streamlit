@@ -4,3 +4,6 @@ numpy
 Pillow
 langchain_community
 langchain-ollama
+faiss-cpu
+sentence_transformers
+langchain_huggingface
